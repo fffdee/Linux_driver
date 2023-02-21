@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bango/linux_driver/d1/key/key-polls/key_polls_test.c
+stdio.h
+/home/bango/linux_driver/d1/key/key-polls/stdio.h
+unistd.h
+/home/bango/linux_driver/d1/key/key-polls/unistd.h
+sys/types.h
+/home/bango/linux_driver/d1/key/key-polls/sys/types.h
+sys/stat.h
+/home/bango/linux_driver/d1/key/key-polls/sys/stat.h
+fcntl.h
+/home/bango/linux_driver/d1/key/key-polls/fcntl.h
+stdlib.h
+/home/bango/linux_driver/d1/key/key-polls/stdlib.h
+string.h
+/home/bango/linux_driver/d1/key/key-polls/string.h
+

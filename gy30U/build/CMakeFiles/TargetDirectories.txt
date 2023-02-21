@@ -1,0 +1,3 @@
+/home/bango/linux_driver/d1/gy30U/build/CMakeFiles/rebuild_cache.dir
+/home/bango/linux_driver/d1/gy30U/build/CMakeFiles/edit_cache.dir
+/home/bango/linux_driver/d1/gy30U/build/CMakeFiles/gy30_test.dir

@@ -1,0 +1,1 @@
+/home/bango/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/bin/riscv64-unknown-linux-gnu-gcc   -rdynamic CMakeFiles/key_input_test.dir/key_input_test.c.o  -o key_input_test 

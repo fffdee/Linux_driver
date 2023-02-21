@@ -1,0 +1,4 @@
+/home/bango/linux_driver/d1/dth11U/build/CMakeFiles/edit_cache.dir
+/home/bango/linux_driver/d1/dth11U/build/CMakeFiles/dth11s.dir
+/home/bango/linux_driver/d1/dth11U/build/CMakeFiles/rebuild_cache.dir
+/home/bango/linux_driver/d1/dth11U/build/CMakeFiles/dth11.dir
